@@ -1,0 +1,3 @@
+[submodule "fasterrcnn"]
+	path = fasterrcnn
+	url = https://github.com/pytorch/vision.git
