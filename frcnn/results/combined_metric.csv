@@ -1,2 +1,7 @@
-stage name,mAP_(0.50-0.95),stage name,mAP_(0.50-0.95),stage name,mAP_(0.50-0.95),stage name,mAP_(0.50-0.95),stage name,mAP_(0.50-0.95),stage name,mAP_(0.50-0.95)
-{'stage0'},tensor(0.0096),{'stage1'},tensor(0.2094),{'stage2'},tensor(0.1700),{'stage3'},tensor(0.1316),{'stage4'},tensor(0.1379),{'stage5'},tensor(0.1816)
+stage name,mAP@50-95
+stage0,0.0012315865606069565
+stage1,0.06251297891139984
+stage2,0.0600907988846302
+stage3,0.019279005005955696
+stage4,0.0249222069978714
+stage5,0.027903897687792778
